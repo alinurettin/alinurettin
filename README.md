@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/ali-nurettin-demir-151790140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-nurettin-demir-151790140/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alinurettindemir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alinurettindemir/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucuvejjtzoc6jfuuvdnldkfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuvejjtzoc6jfuuvdnldkfw" height="30" width="40" /></a>
-<a href="https://discord.gg/#6122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6122" height="30" width="40" /></a>
+<a href="https://discord.gg/#6122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6122" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
