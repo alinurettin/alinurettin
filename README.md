@@ -24,3 +24,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alinurettin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alinurettin" /></a><a href="https://ko-fi.com/ko-fi.com/alinurettin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/alinurettin" /></a></p><br><br>
+
+
+!https://github-readme-stats.vercel.app/api?username=alinurettin&show_icons=true&count_private=true
+
+!https://github-readme-stats.vercel.app/api/top-langs/?username=alinurettin&layout=compact
+
+!https://gpvc.arturio.dev/alinurettin
