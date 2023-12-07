@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Nurettin Demir</h1>
 <h3 align="center">"Coding is the way to turn my thoughts into reality."</h3>
 
-- 🔭 I’m currently working on **UI Automation for Fintech**
+- 🔭 I’m currently working on **UI, API and Mobile Automation for Technology Company**
 
 - 🌱 I’m currently learning **API and Mobile Automation**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alinurettin38@gmail.com**
 
-- ⚡ Fitness and **Playing Games**
+- ⚡ Swimming and **Playing Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
